@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm MHD KHAIR SULTAN
-#### Full stack developer/Python developer/Data scientist/AI engineer/Research assistant/Unity 3d Game developer
+#### Full stack developer/Python developer/Data scientist/AI engineer/Research assistant/Unity 3d Game developer.
 I am a computer scientist with a B.S degree in computer science with Artificial Intelligence major, I have graduated from the Arab International University in March 2021 with GPA 2.95 of 4 and listed on honor lists as the tenth & the eighth, I have built more than 30 undergraduate projects and one postgraduate project using state of the art technologies & tools. I am looking for entry level/Internship jobs. 
 Contact me:
 Email: sultanmohammad94@gmail.com.
